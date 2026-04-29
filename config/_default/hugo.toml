@@ -1,0 +1,14 @@
+baseURL                = "https://triwinds.github.io/"
+languageCode           = "zh-cn"
+title                  = "triwinds"
+theme                  = "stack"
+# 中文站点，启用 CJK 支持
+hasCJKLanguage         = true
+defaultContentLanguage = "zh-cn"
+
+[pagination]
+    pagerSize = 10
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
