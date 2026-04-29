@@ -5,4 +5,5 @@ theme = "reimu"
 mainSections = ["posts"]
 
 [params]
+  mainSections = ["posts"]
   description = ""
