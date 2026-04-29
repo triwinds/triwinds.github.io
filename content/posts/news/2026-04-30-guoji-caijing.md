@@ -1,6 +1,6 @@
 ---
-title: "国际财经速报 | 2026年4月30日 03:00 CST"
-date: 2026-04-30T03:00:00+08:00
+title: "国际财经速报 | 2026年4月30日 06:00 CST"
+date: 2026-04-30T06:00:00+08:00
 draft: false
 tags: ["新闻", "财经", "国际"]
 ---
@@ -9,73 +9,73 @@ tags: ["新闻", "财经", "国际"]
 
 ## 🌍 国际要闻
 
-### 🔴 **特朗普与普京通电话，讨论伊朗与乌克兰局势**
+### 🔴 **阿联酋宣布退出欧佩克，油市格局面临巨震**
 
-俄罗斯总统普京与美国总统特朗普于周三举行电话会谈。克里姆林宫表示，普京就解决伊朗核计划争端提出了多项建议。双方还讨论了乌克兰局势，特朗普称此次通话"富有成果"。这是美俄领导人在伊朗紧张局势升级背景下的重要外交接触。
+阿联酋宣布将于5月1日退出欧佩克（OPEC），结束近60年的成员国身份。中国专家警告这可能带来"更大的麻烦"，分析认为此举反映出海湾合作委员会内部裂痕加深。多家媒体将这一事件视为欧佩克可能走向解体的"关键时刻"。
 
-📎 [SCMP](https://www.scmp.com/news/us/diplomacy/article/3351913/trump-says-he-had-good-talk-putin-iran-and-ukraine?utm_source=rss_feed) | [France24](https://www.france24.com/en/putin-in-call-with-trump-put-forward-ideas-on-iran-kremlin-says)
+📎 [BBC News](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss) | [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss) | [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351896/uaes-exit-opec-could-bring-even-bigger-trouble-chinese-expert?utm_source=rss_feed)
 
-### 🔴 **特朗普称对伊朗封锁可能持续数月，布伦特原油突破119美元**
+### 🔴 **国际油价触及每桶120美元，中东局势持续紧张**
 
-美国总统特朗普警告德黑兰应"尽快清醒"，称美国对伊朗港口的封锁可能延长至数月。受此影响，国际油价持续飙升，布伦特原油突破每桶119美元。与此同时，伊朗提出重新开放霍尔木兹海峡但推迟核谈判的提议，白宫对此态度冷淡。
+受阿联酋退出欧佩克以及伊朗战争延续的双重冲击，布伦特原油价格一度飙升至每桶120美元，为2022年以来首次。美国国内汽油价格也涨至近四年最高水平，引发通胀担忧。
 
-📎 [SCMP](https://www.scmp.com/news/world/middle-east/article/3351904/trump-says-us-blockade-could-last-months-warns-iran-get-smart-soon) | [CNBC](https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html)
+📎 [BBC News](https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss) | [MarketWatch](https://www.marketwatch.com/story/the-u-s-produces-the-most-oil-in-the-world-so-why-are-gasoline-prices-so-high-4cb0d82c?mod=mw_rss_topstories) | [The Guardian](https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates)
 
-### 🔴 **伊朗战争两月已耗费250亿美元**
+### 🔴 **五角大楼首次披露伊朗战争成本：已耗资250亿美元**
 
-美国国防部官员向国会作证称，对伊朗的军事行动在两个月内已花费约250亿美元。国防部长赫格塞斯为创纪录的国防预算辩护，同时国会担忧全球弹药库存大幅减少及补充能力不足的问题。
+美国国防部长皮特·赫格塞斯在国会就伊朗战争预算作证，称过去两个月战争已耗资250亿美元。赫格塞斯与美军参谋长联席会议主席丹·凯恩上将一同出席听证会，但未给出战争结束的时间表。与此同时，"福特"号航母即将在未来数天内撤离中东。
 
-📎 [SCMP](https://www.scmp.com/news/us/article/3351905/iran-war-price-tag-hits-us25-billion-hegseth-defends-record-pentagon-budget) | [CBS](https://www.cbsnews.com/news/iran-war-25-billion-hegseth-congress/)
+📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date) | [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss) | [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-warning-strait-of-hormuz-bab-el-mandeb-threat-oil-prices/)
 
-### 🔴 **阿联酋宣布退出OPEC，重塑海湾石油格局**
+### 🔴 **特朗普称普京愿协助解决伊朗核僵局**
 
-阿联酋正式宣布退出石油输出国组织（OPEC），释放出追求独立经济政策和重塑海湾石油政治的信号。分析人士认为，此举虽不会立即影响当前的石油封锁，但可能从根本上改变OPEC在未来全球油价中的影响力。
+美国总统特朗普表示，俄罗斯总统普京向他提出愿意"参与"解决伊朗核浓缩问题的僵局。这一表态引发外界对俄方可能在美伊之间扮演调解角色的猜测。
 
-📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/uae-quits-opec-what-that-means-for-the-gulf-energy-markets-and-beyond) | [BBC](https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss)
+📎 [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss)
 
-### 🔴 **美国最高法院里程碑裁决：限制以种族划分选区**
+### 🔴 **韩国前总统尹锡悦被判7年有期徒刑**
 
-美国最高法院作出重大裁决，严格限制在划分选举选区时使用种族因素。这一裁决可能重塑全美国会选区地图，被广泛视为对《投票权法案》的重大打击。批评者指出，这将削弱少数族裔的投票权力。
+韩国上诉法院判处前总统尹锡悦7年监禁，罪名包括抗拒逮捕和绕过内阁会议。尹锡悦此前曾短暂实施戒严，这一判决被视为韩国政坛的重大事件。
 
-📎 [SCMP](https://www.scmp.com/news/world/united-states-canada/article/3351910/us-supreme-court-curbs-race-based-voting-maps-landmark-ruling) | [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/us-top-court-voids-louisiana-voting-map-amid-national-redistricting-fight)
+📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon)
 
-### 🔴 **伦敦两名犹太男子遇刺，警方定性为恐怖袭击**
+### 🔴 **伦敦两名犹太男子遭持刀袭击，警方定性为恐怖事件**
 
-伦敦一名45岁男子在犹太社区街头刺伤两名犹太男子，警方已将此事件定性为恐怖袭击。受害者目前伤势稳定。英国首相对此表示谴责，称将严厉打击极端主义行为。
+伦敦北部发生持刀袭击事件，两名犹太男子被刺伤。警方已宣布为恐怖袭击事件，伦敦市长表示将加强巡逻。近期英国反犹袭击事件频发，引发社会广泛担忧。
 
-📎 [France24](https://www.france24.com/en/video/20260429-london-police-say-stabbing-of-2-jewish-men-is-declared-a-terrorist-incident) | [DW](https://www.dw.com/en/uk-london-stabbing-being-treated-as-terrorist-incident/a-76980651?maca=en-rss-en-all-1573-rdf)
+📎 [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss) | [CBS News](https://www.cbsnews.com/news/london-stabbing-golders-green-jewish-group-says-amid-wave-antisemitism/)
 
 ## 💰 财经动态
 
-### 🔴 **美联储维持利率不变，1992年以来反对票最多**
+### 🔴 **科技巨头财报同日发布：Alphabet全年资本支出高达1900亿美元**
 
-美联储在杰罗姆·鲍威尔任主席的最后一次会议上宣布将利率维持在3.5%-3.75%不变，理由是通胀仍处高位、就业增长缓慢以及中东局势不确定性。此次决议遭遇1992年以来最多的反对票数，反映出美联储内部对利率政策的分歧加深。
+谷歌母公司Alphabet发布Q1财报，云业务收入大幅增长，同时将2026年全年资本支出上调至最高1900亿美元，并预期2027年将"显著增加"。亚马逊AWS收入同比增长28%超预期。Meta、微软同日发布财报，科技巨头AI投资竞赛白热化。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html) | [The Guardian](https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate)
+📎 [CNBC](https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html) | [BBC Business](https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss) | [CNBC](https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html)
 
-### 🔴 **鲍威尔表示主席任期结束后将继续担任美联储理事**
+### 🔴 **鲍威尔表态任期结束后仍留任美联储，回应政治攻击**
 
-鲍威尔在利率决议后表示，他将在5月中旬主席任期结束后继续担任美联储理事会成员，"具体时长待定"。他同时称特朗普对其的批评"前所未有"。此前参议院小组已以党派划线投票，推进特朗普提名的凯文·沃什接任美联储主席。
+美联储主席杰罗姆·鲍威尔在完成最后一次作为主席的议息会议后表示，他计划在任期于下月结束后"无限期"留任美联储理事会，原因是特朗普团队对其发起了攻击。与此同时，美联储主席提名人凯文·沃什在参议院听证会上表示，美联储在国际金融领域并非完全独立。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html) | [Al Jazeera](https://www.aljazeera.com/economy/2026/4/29/senate-panel-advances-kevin-warshs-nomination-for-us-fed-chair)
+📎 [SCMP](https://www.scmp.com/news/world/united-states-canada/article/3351915/powell-says-hell-stay-fed-after-chair-term-ends-citing-attacks-trump-team?utm_source=rss_feed) | [BBC Business](https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss) | [CNBC](https://www.cnbc.com/2026/04/29/fed-powell-warsh-interest-rates.html)
 
-### 🔴 **华尔街迎接8000亿美元超级财报日：四大科技巨头同日放榜**
+### 🔴 **福特上调2026年业绩指引，获13亿美元关税退税提振**
 
-Alphabet、Amazon、Meta和微软四家"科技七巨头"成员将于周三晚间同时公布季度财报。期权市场数据显示，与此相关的个股波动规模高达约8000亿美元。微软此前刚经历了2008年以来最差的季度股价表现，市场对AI盈利前景分歧加剧。
+福特汽车发布Q1财报，利润大幅增长，得益于13亿美元的关税退税抵消了成本上升。公司上调全年业绩指引，展现出在电动车需求放缓背景下的经营韧性。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html) | [CNBC](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html)
+📎 [CNBC](https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html) | [MarketWatch](https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories)
 
-### 🔴 **油价飙升推高抵押贷款利率，伊朗局势冲击全球市场**
+### 🔴 **英国陷入财务困境企业数量激增三分之一**
 
-受伊朗战争负面消息推动，美国国债收益率走高，抵押贷款利率随之升至近四周高位。分析人士指出，能源价格上涨正从多个渠道传导至消费者和金融市场。与此同时，英国劳埃德银行表示已因伊朗战争计提1.51亿英镑损失，并预测英国失业率将上升。
+报告显示，受税收上升、人力成本增加和消费者信心不稳影响，英国"严重财务困境"企业数量增至62,193家，较此前激增三分之一。这反映出英国经济在高成本环境下面临的严峻挑战。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/mortgage-rates-surge-iran-markets.html) | [The Guardian](https://www.theguardian.com/business/2026/apr/29/lloyds-iran-war-forecasts-rise-in-uk-unemployment)
+📎 [The Guardian](https://www.theguardian.com/business/2026/apr/29/uk-firms-in-critical-financial-stress-jump-by-a-third-costs-rise-report-says)
 
-### 🔴 **PayPal将Venmo设为独立业务单元，为潜在出售铺路**
+### 🔴 **比特币创年内最佳月度表现，但散户兴趣转移**
 
-PayPal新任CEO宣布重组计划，将移动支付应用Venmo设为独立业务部门。此举旨在重振增长，同时为潜在买家进场创造条件。PayPal在电商支付领域正面临来自Apple、Google和Stripe的激烈竞争。
+比特币本月创下年内最佳表现，但Robinhood等散户交易平台的比特币交易量大幅下滑。市场分析指出，散户资金正流向其他资产类别，加密货币市场出现分化态势。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html)
+📎 [MarketWatch](https://www.marketwatch.com/story/bitcoin-is-having-its-best-month-in-a-year-but-the-retail-crowd-is-looking-elsewhere-d01aa6c1?mod=mw_rss_topstories)
 
 ---
 
