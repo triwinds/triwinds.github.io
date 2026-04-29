@@ -1,6 +1,6 @@
 ---
-title: "国际财经速报 | 2026年04月29日 18:00 CST"
-date: 2026-04-29T18:00:00+08:00
+title: "国际财经速报 | 2026年04月29日 21:01 CST"
+date: 2026-04-29T21:01:00+08:00
 draft: false
 tags: ["新闻", "财经", "国际"]
 ---
@@ -9,73 +9,78 @@ tags: ["新闻", "财经", "国际"]
 
 ## 🌍 国际要闻
 
-### 🔴 **阿联酋宣布将于5月1日退出OPEC，重创石油卡特尔体系**
+### 🔴 **伊朗战争僵局持续：特朗普警告伊朗"学聪明点"，联合国人权高专谴责大规模逮捕**
 
-阿联酋政府周二宣布将于5月1日正式退出OPEC，这是该组织第三大产油国的历史性退出决定。分析人士指出，此举发生在霍尔木兹海峡因中东冲突关闭之际，将严重削弱OPEC在全球石油市场的影响力。尽管俄罗斯表示将留在OPEC+，但阿联酋的出走被视为该组织数十年来面临的最严峻挑战之一。
+美国总统特朗普在Truth Social上向伊朗发出强硬警告，要求其在和平谈判中"学聪明点"，此前伊朗提出的方案引发美方不满。美伊在霍尔木兹海峡的对峙仍在继续，伊朗立法者誓言"绝不放弃对海峡的控制权"。与此同时，联合国人权事务高级专员对伊朗战争期间的大规模逮捕和处决表示"震惊"，数千人被拘留，伊朗货币持续暴跌。
 
-📎 [France24](https://www.france24.com/en/video/20260429-united-arab-emirates-will-leave-opec-in-a-blow-to-the-oil-cartel) | [CBS News](https://www.cbsnews.com/news/uae-leaving-opec-oil-may-1/) | [NPR](https://www.npr.org/2026/04/29/nx-s1-5802933/will-uaes-departure-from-opec-affect-the-oil-cartels-future-influence) | [BBC](https://www.bbc.com/news/articles/cj4pxyklw1jo)
+📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/no-more-mr-nice-guy-trump-threatens-iran-to-get-smart-in-peace-talks?traffic_source=rss)
+📎 [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-warning-strait-of-hormuz-bab-el-mandeb-threat-oil-prices/)
+📎 [DW](https://www.dw.com/en/iran-war-un-rights-chief-appalled-by-arrests-executions/live-76979799?maca=en-rss-en-all-1573-rdf)
 
-### 🔴 **布伦特原油突破115美元，特朗普对伊朗发出新威胁**
+### 🔴 **阿联酋宣布退出OPEC，海湾联盟面临历史性重构**
 
-国际油价延续多日涨势，布伦特原油突破每桶115美元。报道称美国可能扩大对伊朗港口的封锁，而特朗普政府正在审慎考虑伊朗重开霍尔木兹海峡的提议，但将核谈判搁置一旁。航空公司纷纷取消航班并上调票价，全球能源危机持续发酵。
+阿联酋决定在近60年成员身份后退出石油输出国组织（OPEC），被视为该石油联盟可能走向终结的信号。分析人士指出，此举不仅是关于石油，更反映出阿联酋与沙特阿拉伯之间日益扩大的分歧以及海湾地区联盟的根本性重组。阿联酋希望按自身条件增产石油，沙特则失去了一个关键合作伙伴。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html) | [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/) | [France24](https://www.france24.com/en/video/20260429-airlines-worldwide-cancel-flights-raise-fares-amid-middle-east-conflict)
+📎 [BBC](https://www.bbc.com/news/articles/cj4pxwlr52yo?utm_source=rss_feed)
+📎 [Al Jazeera](https://www.aljazeera.com/opinions/2026/4/29/the-uaes-opec-exit-is-not-about-oil-it-is-the-end-of-gulf-solidarity?traffic_source=rss)
+📎 [DW](https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-rdf)
 
-### 🔴 **以色列空袭黎巴嫩致8人死亡，停火协议名存实亡**
+### 🔴 **韩国前总统尹锡悦上诉被判7年监禁**
 
-黎巴嫩卫生部门称，以色列周二发动空袭造成8人死亡，其中包括民防救援人员，另有2名士兵受伤。尽管此前达成了停火协议，但双方冲突仍在持续。分析人士质疑以色列在黎南部建立的所谓"安全缓冲区"在国际法中的合法性。
+韩国上诉法院对前总统尹锡悦作出判决，以妨碍公务执行等罪名判处其7年监禁。此前尹锡悦已因领导内乱罪在一审中被判终身监禁。这起案件源于他此前试图实施戒严令的失败政变，标志着韩国政坛的重大震动。
 
-📎 [France24](https://www.france24.com/en/video/20260429-israeli-strikes-kill-8-in-lebanon-violence-continues-despite-ongoing-ceasefire) | [DW](https://www.dw.com/en/israel-in-lebanon-is-the-security-buffer-zone-legal/a-76971183)
+📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon)
+📎 [DW](https://www.dw.com/en/south-korea-yoon-s-obstruction-sentence-hiked-to-7-years/a-76976474?maca=en-rss-en-all-1573-rdf)
 
-### 🔴 **乌克兰瞄准"友谊"输油管道，欲切断俄罗斯对欧盟石油供应**
+### 🔴 **英王查尔斯三世在美国会发表历史性演讲，呼吁美英同盟更加紧密**
 
-乌克兰计划对"友谊"输油管道采取行动，以切断俄罗斯通过该管道向匈牙利和斯洛伐克输送的石油。基辅方面认为布鲁塞尔对俄石油制裁力度不足，决定自行采取行动。此举将进一步重塑欧洲能源版图。
+查尔斯三世成为35年来首位在美国国会发表演讲的英国君主。他在演讲中表示两国"结盟比以往任何时候都更加重要"，并呼吁"和解"。演讲中他还以幽默方式回应了美英近期的紧张关系，称"如果不是我们，你们现在可能说法语了"。分析人士指出，部分言论可能令白宫感到不安。
 
-📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu)
+📎 [CBS News](https://www.cbsnews.com/news/king-charles-congress-speech/)
+📎 [BBC](https://www.bbc.com/news/articles/c8jvl3x19v9o?utm_source=rss_feed)
+📎 [NPR](https://www.npr.org/2026/04/28/nx-s1-5802803/king-charles-urges-reconciliation-in-address-to-u-s-congress-amid-trump-tensions)
 
-### 🔴 **查尔斯国王访美：白宫国宴高规格款待，在国会发表历史性演讲**
+### 🔴 **特朗普访华前夕，中国展示关键矿产全球主导地位**
 
-英国国王查尔斯三世在访美期间出席白宫国宴，并与特朗普总统共同致敬两国长期盟友关系。他在国会发表讲话，纪念美国独立250周年，强调英美两国携手建立了"最具建设性的伙伴关系之一"。
+在特朗普即将访华之际，中国积极彰显其在全球供应链中的主导地位，宣称拥有14种关键矿产（包括稀土和石墨）的世界最大储量。中国同时加强资源安全保障措施。分析人士认为，这意在为即将到来的中美高层对话增加谈判筹码。
 
-📎 [France24](https://www.france24.com/en/video/20260429-king-charles-trump-toast-ties-despite-iran-tensions) | [CBS News](https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/)
+📎 [SCMP](https://www.scmp.com/economy/china-economy/article/3351864/trumps-visit-china-touts-mineral-dominance-fortifies-resource-security?utm_source=rss_feed)
 
-### 🔴 **马里面临大规模骚乱，法国敦促公民立即撤离**
+### 🔴 **马里图阿雷格叛军誓言推翻政权，法国敦促公民撤离**
 
-法国呼吁在马里的公民"尽快"离开该国。此前马里多地政府目标遭到袭击，局势急剧恶化。马里军政府领导人发表首次公开讲话称局势"已得到控制"，但俄罗斯声称其非洲军团阻止了一场政变。与此同时，索马里海域一周内三艘船只被劫持，引发对海盗活动卷土重来的担忧。
+马里图阿雷格叛军"阿扎瓦德解放阵线"发言人宣称军政府"必将倒台"，并要求俄罗斯军队撤离。此前叛军发动攻势，俄准军事部队从马里北部关键基地撤离。法国和英国相继敦促本国公民离开马里，法国呼吁公民"自行承担风险"。
 
-📎 [France24](https://www.france24.com/en/africa/20260429-france-urges-citizens-to-leave-extremely-volatile-mali-as-soon-as-possible) | [The Guardian](https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns) | [The Guardian](https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week)
+📎 [France24](https://www.france24.com/en/africa/20260429-mali-tuareg-rebels-vow-regime-will-fall-urge-russian-forces-to-withdraw)
+📎 [BBC](https://www.bbc.com/news/articles/cp3pdgvpn27o?utm_source=rss_feed)
 
 ## 💰 财经动态
 
-### 🔴 **杰米·戴蒙警告全球债务风险或引发"债券危机"**
+### 🔴 **国际油价突破115美元，霍尔木兹海峡危机持续发酵**
 
-摩根大通CEO杰米·戴蒙发出严厉警告，称全球不断累积的债务风险可能引发"某种形式的债券危机"。他指出当前不断滋生的多重风险可能以不可预测的方式叠加，对金融市场造成严重冲击。与此同时，美国国土安全部自2月以来持续关闭，国会僵局导致TSA和特勤局工资面临风险。
+全球基准原油合约价格突破每桶115美元，逼近伊朗战争初期的高点。霍尔木兹海峡的僵局毫无缓解迹象，市场担忧供应中断将持续。与此同时，伊朗石油储存设施接近满仓，专家预测如果美国海上封锁持续，伊朗可能被迫逐步减产。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html) | [CNBC](https://www.cnbc.com/2026/04/28/dhs-tsa-shutdown-congress.html)
+📎 [MarketWatch](https://www.marketwatch.com/story/the-key-global-oil-contract-tops-115-as-strait-of-hormuz-impasse-continues-ce2cdf04?mod=mw_rss_topstories)
+📎 [BBC](https://www.bbc.com/news/articles/cj4pxr0gr02o?utm_source=rss_feed)
+📎 [Al Jazeera](https://www.aljazeera.com/economy/2026/4/29/is-irans-oil-storage-nearly-full-and-will-it-have-to-cut-production?traffic_source=rss)
 
-### 🔴 **BNP Paribas警告：油价若达200美元将把全球经济推入衰退**
+### 🔴 **瑞银Q1利润飙升80%至30亿美元，股价上涨5%**
 
-法国巴黎银行发布季度展望报告，警告油价达到每桶200美元以及另外两种情景可能将全球推入衰退。报告详细分析了中东冲突升级对全球经济的潜在冲击路径。与此同时，劳埃德银行因伊朗战争计提1.51亿英镑损失，并预测英国失业率将上升。
+瑞银集团（UBS）公布第一季度财报，净利润达30亿美元，同比增长80%，远超分析师预期。强劲的业绩推动股价上涨5%。在整合瑞信后的转型期，瑞银展现出强劲的盈利能力，为欧洲银行业注入信心。
 
-📎 [MarketWatch](https://www.marketwatch.com/story/200-oil-and-two-other-scenarios-could-tip-the-world-into-a-recession-says-this-global-bank-23a66a46) | [The Guardian](https://www.theguardian.com/business/2026/apr/29/lloyds-iran-war-forecasts-rise-in-uk-unemployment)
+📎 [CNBC](https://www.cnbc.com/2026/04/29/ubs-swiss-bank-first-quarter-earnings-profit-switzerland-trading.html)
 
-### 🔴 **英国两大制药商一季度利润超预期，美国政策风险仍存**
+### 🔴 **美国核心资本品订单3月超预期增长**
 
-英国两大制药巨头阿斯利康和葛兰素史克第一季度利润均超出市场预期，在全球制药业面临美国政策压力的背景下表现出韧性。两家公司分别是英国市值第二和第九大的企业，其业绩为市场注入了一剂强心针。
+美国3月份核心资本品订单数据大幅超出市场预期，显示尽管面临利率高企和地缘政治不确定性，企业投资依然保持韧性。这一数据为即将公布的美联储利率决议提供了重要参考。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/astrazeneca-gsk-q1-earnings-stock-sales-profit-trump-mfn-pharma.html)
+📎 [Investing.com](https://www.investing.com/news/economy-news/us-core-capital-goods-orders-blow-past-expectations-in-march-4645055)
 
-### 🔴 **Seagate乐观展望推动存储股上涨，AI数据需求激增**
+### 🔴 **摩根大通戴蒙警告：信贷驱动的衰退将"比人们想象的更糟"**
 
-希捷科技发布强劲业绩展望，带动存储板块集体上涨。人工智能对数据处理和存储的爆炸性需求成为核心驱动力。与此同时，Hexatronic发布的一季度报告显示，数据中心业务推动其股价飙升49%，进一步印证了AI基础设施投资的持续热潮。
+摩根大通CEO杰米·戴蒙警告称，如果经济衰退由信贷问题引发，其影响将不仅限于私人信贷领域，其严重程度将"超出人们的想象"。这一警告正值美联储即将公布最新利率决定之际，市场普遍关注美联储主席鲍威尔可能最后一次主持会议的政策走向。
 
-📎 [Investing.com](https://www.investing.com/news/stock-market-news/seagate-outlook-lifts-storage-stocks-on-surging-ai-data-demand-4644050)
-
-### 🔴 **星巴克上调全年业绩展望，扭亏计划初见成效**
-
-星巴克发布第二财季财报，全球同店销售额增长6.2%，客流量明显回升。尽管油价上涨推高运营成本，首席执行官布莱恩·尼科尔领导的转型战略仍在稳步推进，公司因此上调了全年业绩指引。
-
-📎 [CNBC](https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html)
+📎 [MarketWatch](https://www.marketwatch.com/story/jpmorgans-jamie-dimon-says-a-credit-led-recession-would-be-worse-than-people-think-5a388e94?mod=mw_rss_topstories)
+📎 [CNBC](https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html)
 
 ---
 
