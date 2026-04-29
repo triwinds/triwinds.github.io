@@ -2,6 +2,7 @@ baseURL = "https://triwinds.github.io/"
 languageCode = "zh-cn"
 title = "triwinds"
 theme = "reimu"
+mainSections = ["posts"]
 
 [params]
   description = ""
