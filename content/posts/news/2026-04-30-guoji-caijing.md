@@ -1,6 +1,6 @@
 ---
-title: "国际财经速报 | 2026年04月30日 18:00 CST"
-date: 2026-04-30T18:00:00+08:00
+title: "国际财经速报 | 2026年04月30日 21:00 CST"
+date: 2026-04-30T21:00:00+08:00
 draft: false
 tags: ["新闻", "财经", "国际"]
 ---
@@ -9,67 +9,67 @@ tags: ["新闻", "财经", "国际"]
 
 ## 🌍 国际要闻
 
-### 🔴 **美伊战争第 62 天：特朗普要求伊朗"放弃抵抗"，油价飙升创四年新高**
+### 🔴 **伊朗战争持续升级：美军已耗资250亿美元，油价创四年新高**
 
-美国对伊朗的海上封锁进入第 62 天，特朗普警告封锁可能持续数月。布伦特原油价格突破 120 美元，创下 2022 年初以来新高。伊朗总统佩泽什基安称封锁"注定失败"，但美军中央司令部称行动有效。分析人士担忧冲突正演变为长期"冻结冲突"，双方均面临巨大代价。
+美国国防部表示，对伊朗的军事行动至今已耗费约250亿美元。与此同时，国际油价飙升至四年来的最高水平。美国国防部长赫格塞斯在国会作证时遭到两党议员尖锐质询，批评其未经国会批准发动战争。Axios报道称，特朗普将听取新一轮打击方案，试图打破霍尔木兹海峡的对峙僵局。美国国内汽油价格已升至2022年以来最高水平。
 
-📎 [Al Jazeera: Iran war day 62](https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up?traffic_source=rss)
+📎 [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-hegseth-costs-strait-of-hormuz/)
 
-### 🔴 **特朗普称与普京通话讨论乌克兰停火可能性**
+### 🔴 **以色列在地中海拦截加沙援助船队，拘留175名活动人士**
 
-特朗普表示于周三与俄罗斯总统普京讨论了乌克兰战争及伊朗局势。美方正评估通过外交途径推动停火的可行性。与此同时，俄罗斯宣布今年莫斯科胜利日阅兵将缩减规模，取消军车和军校学员方阵，理由是乌克兰方面的威胁。
+亲巴勒斯坦活动人士表示，22艘载有加沙救援物资的船只在希腊克里特岛附近的国际水域被以色列非法拦截。这批船只本拟将人道主义援助物资运往加沙地带，船上共载有175名来自多国的活动人士。事件引发国际社会强烈关注。
 
-📎 [NPR: Trump-Putin call on Ukraine ceasefire](https://www.npr.org/2026/04/30/nx-s1-5805188/trump-says-he-spoke-with-putin-about-a-possible-ceasefire-in-ukraine)
+📎 [BBC World](https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss)
 
-### 🔴 **美国最高法院削弱《投票权法》，撤销路易斯安那州黑人多数选区**
+### 🔴 **习近平呼吁"颠覆性创新"助推中国科技发展**
 
-美国最高法院裁定路易斯安那州一个以黑人选民为主的国会选区违宪，认定其过度依赖种族因素划线。该裁决削弱了《投票权法》的关键条款，民主党人誓言将抗争到底。这是最高法院近期对少数族裔保护的最新打击。
+在中美科技竞赛白热化的背景下，中国国家主席习近平呼吁加大科研创新力度，通过"颠覆性创新"实现技术突破，以提升中国的全球科技竞争力。这一表态正值美国持续加强对华技术出口管制之际，凸显中国加速科技自主的紧迫性。
 
-📎 [France24: Supreme Court weakens Voting Rights Act](https://www.france24.com/en/us-supreme-court-weakens-voting-rigths-act)
+📎 [SCMP](https://www.scmp.com/news/china/politics/article/3352048/xi-jinping-urges-disruptive-innovation-boost-china-amid-high-stakes-us-tech-race?utm_source=rss_feed)
 
-### 🔴 **全球新闻自由降至 25 年来最低水平**
+### 🔴 **马里危机持续恶化：分离主义与圣战组织联手发动攻击**
 
-无国界记者组织（RSF）发布报告警告称，全球新闻自由已跌至四分之一个世纪以来的最低点，"新闻工作者在全球范围内日益被定罪"。近年来多国政府加强对媒体的打压，新闻行业面临前所未有的困境。
+马里国防部长近日遇刺后，分离主义武装"阿扎瓦德解放阵线"宣称控制基达尔地区，并与圣战组织协调发动了多起全国性袭击。马里军方随即对基达尔发动空袭。俄罗斯拒绝图阿雷格叛军要求其撤军的要求，表示俄方部队将继续留在马里。马里安全形势急剧恶化。
 
-📎 [Al Jazeera: Press freedom lowest in 25 years](https://www.aljazeera.com/news/2026/4/30/global-press-freedom-falls-to-its-lowest-level-in-25-years?traffic_source=rss)
+📎 [France24](https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks)
 
-### 🔴 **以色列将加沙军事区扩大至近三分之二领土，长期控制担忧加剧**
+### 🔴 **美国起诉墨西哥锡那罗亚州州长贩毒**
 
-自去年 10 月停火以来，以色列大幅扩展了加沙地带的军事缓冲区，目前已覆盖近三分之二领土。以军称此举为"安全需要"，但观察人士担忧以色列正寻求对加沙的长期控制。同时以色列在克里特岛附近拦截了一支试图突破封锁的人道主义援助船队，扣留数十名活动人士。
+美国司法部对墨西哥锡那罗亚州州长鲁本·罗查·莫亚提起贩毒指控，指控其与锡那罗亚贩毒集团合谋向美国运送毒品，以换取政治支持。这是美国罕见地对一名现任外国州长提起刑事指控，引发墨西哥政府强烈反应。
 
-📎 [France24: Israel expands Gaza military zone](https://www.france24.com/en/gaza-expanding-israeli-military-zone-fuels-fears-of-long-term-control)
+📎 [DW](https://www.dw.com/en/us-charges-mexico-s-sinaloa-state-governor-with-drug-trafficking/a-76989747?maca=en-rss-en-all-1573-rdf)
 
-### 🔴 **特朗普威胁削减驻德美军，美德裂痕加深**
+### 🔴 **中国天宫空间站将扩容一倍，NASA逐步淘汰国际空间站**
 
-特朗普称美方正考虑"可能削减"在德国的驻军规模，数天前德国总理默茨批评美国正变得"不可靠"。此举可能对北约联盟产生深远影响。同时，美国国防部长赫格塞斯在国会就伊朗战争作证，首次接受宣誓质询，猛烈抨击批评者。
+中国确认计划扩建其天宫空间站，规模可能扩大一倍以上，以满足日益增长的科学需求并扩大国际合作空间。此举正值美国NASA逐步淘汰国际空间站之际，标志着中国在太空领域的影响力进一步上升。
 
-📎 [DW: Trump threatens US troop cuts in Germany](https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-all-1573-rdf)
+📎 [SCMP](https://www.scmp.com/news/china/science/article/3352049/chinas-tiangong-space-station-double-size-nasa-phases-out-iss?utm_source=rss_feed)
 
 ## 💰 财经动态
 
-### 🔴 **国际油价突破 120 美元创四年新高，美伊对峙持续升温**
+### 🔴 **美国核心通胀率升至3.2%创近三年新高，联储陷入两难**
 
-布伦特原油价格飙升至 2022 年初以来的最高水平，随后略有回落。报道称特朗普将于周四听取对伊朗采取进一步军事打击的简报。美伊对峙导致霍尔木兹海峡航运受阻，巴基斯坦已开通陆路贸易通道向伊朗输送货物。香港工商界运营成本也因战争飙升 50%。
+美联储最关注的通胀指标——核心PCE物价指数在3月录得3.2%，创下近三年最大增幅。伊朗战争推动能源价格上涨是主要推手。分析人士表示，在通胀居高不下的背景下，美联储降息空间极为有限，货币政策面临两难局面。
 
-📎 [MarketWatch: Oil hits four-year high above $120](https://www.marketwatch.com/story/oil-prices-climb-to-four-year-high-above-120-after-report-that-trump-is-considering-further-military-action-in-iran-9785eb43?mod=mw_rss_topstories)
+📎 [MarketWatch](https://www.marketwatch.com/story/inflation-rate-leaps-to-nearly-3-year-high-due-to-iran-war-now-the-feds-hands-are-tied-2b78b103?mod=mw_rss_topstories)
 
-### 🔴 **欧元区通胀飙升至 3%，经济增长近乎停滞**
+### 🔴 **欧元区通胀飙升至3%，伊朗战争推高能源价格**
 
-最新数据显示，欧元区 4 月通胀率跃升至 3%，而第一季度经济仅微增 0.1%。意大利 CPI 同步升至 2.9%，高于预期。摩根士丹利表示核心通胀仍过于顽固，美联储难以降息，中东局势稳定前利率将维持高位。市场对滞胀风险的担忧加剧。
+欧洲央行数据显示，欧元区4月通胀率从3月的2.6%升至3%，创下数月新高。伊朗战争导致的能源价格飙升是主要推因。欧洲央行决定维持利率不变，在经济增长放缓和物价上涨之间艰难平衡。
 
-📎 [CNBC: Euro zone inflation jumps to 3%](https://www.cnbc.com/2026/04/30/euro-zone-economy-inflation-growth.html)
+📎 [Guardian Business](https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices)
 
-### 🔴 **Anthropic 洽谈融资，估值达 9000 亿美元超过 OpenAI**
+### 🔴 **美联储维持利率不变，内部出现1992年以来最大分歧**
 
-人工智能公司 Anthropic 正与投资者洽谈新一轮融资，估值高达 9000 亿美元，超越 OpenAI。与此同时，Meta 将 2026 年资本支出提高至 1450 亿美元，全力押注 AI 领域。但华尔街更看好谷歌而非 Meta 的 AI 支出，Alphabet 财报超预期、云计算强劲增长，成为财报季最大赢家。
+美联储4月议息会议决定维持利率不变，但内部投票出现了自1992年以来最大规模的分歧，多位委员主张加息以应对通胀压力。鲍威尔明确表示其主席任期结束后将继续担任美联储理事，并称特朗普对其的批评"前所未有"。市场对此反应复杂。
 
-📎 [CNBC: Anthropic at $900B valuation](https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html)
+📎 [CNBC](https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html)
 
-### 🔴 **阿联酋退出 OPEC，沙特遭遇重大打击**
+### 🔴 **英国央行警告"通胀上涨不可避免"，维持利率不变**
 
-阿联酋宣布退出石油输出国组织 OPEC，结束近 60 年的成员国身份，以自主扩大石油产量。此举削弱了沙特在 OPEC 内部的关键盟友，并给全球能源市场增添新的不确定性。分析人士指出，在全球能源格局重塑和中东紧张局势背景下，新的能源集团正在美国主导下形成。
+英国央行在4月议息会议后决定维持利率不变，但行长发出明确警告称"更高的通胀率不可避免"。伊朗战争导致的中东局势不确定性是核心原因。英国央行预计2026年英国GDP增速仅为0.5%，低于国际货币基金组织预测的0.8%。
 
-📎 [DW: UAE exits OPEC](https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-rdf)
+📎 [Guardian Business](https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold)
 
 ---
 
