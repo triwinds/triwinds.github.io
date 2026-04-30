@@ -1,6 +1,6 @@
 ---
-title: "国际财经速报 | 2026年04月30日 09:01 CST"
-date: 2026-04-30T09:01:00+08:00
+title: "国际财经速报 | 2026年04月30日 15:00 CST"
+date: 2026-04-30T15:00:00+08:00
 draft: false
 tags: ["新闻", "财经", "国际"]
 ---
@@ -9,67 +9,73 @@ tags: ["新闻", "财经", "国际"]
 
 ## 🌍 国际要闻
 
-### 🔴 **特朗普敦促伊朗"放弃抵抗"，油价飙升突破120美元**
+### 🔴 **油价突破120美元，特朗普称伊朗封锁可能持续"数月"**
 
-伊朗局势持续升级。特朗普在社交媒体上呼吁德黑兰"投降"，与此同时霍尔木兹海峡的对峙态势推动全球油价突破每桶120美元。人道主义组织呼吁建立人道主义走廊，因为战争已严重影响粮食、燃料和药品的运输。
+布伦特原油价格突破每桶120美元，创2022年以来新高。美国总统特朗普表示愿意维持美国海军对伊朗港口的封锁，同时伊朗方面基本关闭了霍尔木兹海峡。Axios报道称，美国中央司令部已准备对伊朗实施"短促而强力"的空袭方案。
 
-📎 [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss)
+📎 [The Guardian](https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz)
 
-### 🔴 **特朗普与普京通电话讨论伊朗和乌克兰局势**
+### 🔴 **特朗普威胁削减驻德美军，因伊朗问题与德总理关系恶化**
 
-特朗普与普京就伊朗冲突与乌克兰问题进行通话。与此同时，美国能源出口上升。这场脆弱的停火协议持续冲击全球市场，多国正密切关注事态发展。
+美国总统特朗普表示，由于他与德国总理默茨就美以对伊战争持续发生争执，他可能很快削减美国在德国的军事存在。这标志着美欧关系在伊朗冲突背景下进一步紧张。
 
-📎 [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351924/trump-putin-talk-iran-and-ukraine-us-energy-exports-heres-what-happened-overnight?utm_source=rss_feed)
+📎 [NPR](https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud)
 
-### 🔴 **特朗普威胁削减驻德美军，德美关系再陷紧张**
+### 🔴 **韩国法院判处前总统尹锡悦7年监禁**
 
-美国总统特朗普表示正考虑削减驻德美军规模，此前德国总理默茨批评美国在伊朗问题上的立场"有辱人格"。此举可能对北约同盟关系产生深远影响。
+韩国上诉法院以拒捕和绕过内阁会议等罪名，判处被弹劾下台的前总统尹锡悦7年监禁。此前他曾在短暂实施戒严令时引发宪政危机。
 
-📎 [SCMP](https://www.scmp.com/news/world/europe/article/3351923/trump-may-cut-us-troops-germany-after-merzs-humiliating-iran-comment?utm_source=rss_feed)
+📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon)
 
-### 🔴 **金砖国家推动本币支付体系，寻求削弱西方金融影响力**
+### 🔴 **全球新闻自由指数降至25年来最低**
 
-金砖国家正在评估建立数字支付框架的可能性，通过连接各国货币来减轻西方制裁、关税和美元波动带来的影响。此举被视为去美元化进程中的重要一步。
+无国界记者组织（RSF）发布年度全球新闻自由指数警告称，全球新闻自由已降至四分之一世纪以来的最低水平。四分之三的国家被列为"有问题"或更差等级，威权主义崛起趋势明显。
 
-📎 [SCMP](https://www.scmp.com/week-asia/economics/article/3351860/brics-push-intra-currency-payments-immunity-against-western-clout?utm_source=rss_feed)
+📎 [France24](https://www.france24.com/en/media/20260430-global-press-freedom-falls-to-lowest-level-in-25-years-rsf-warns)
 
-### 🔴 **美国起诉锡那罗亚州州长等10名墨西哥官员涉毒**
+### 🔴 **朝鲜面临粮食短缺，干旱威胁农作物收成**
 
-美国司法部起诉墨西哥锡那罗亚州州长鲁本·罗查·莫亚及其他9名现任和前任墨西哥官员，指控其涉及毒品贩运、武器犯罪和绑架等罪名。这是美国对墨西哥高级官员规模最大的起诉之一。
+朝鲜官方媒体报道称，该国大部分地区正遭受异常严重的干旱袭击。这个人口超过2500万且长期与世隔绝的国家，粮食安全形势进一步恶化。
 
-📎 [The Guardian](https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences)
+📎 [DW](https://www.dw.com/en/north-korea-faces-food-shortages-as-drought-threatens-crops/a-76990431?maca=en-rss-en-all-1573-rdf)
 
-### 🔴 **以色列在公海拦截加沙援助船队**
+### 🔴 **伦敦两名犹太男子被刺伤事件被定性为恐怖袭击**
 
-以色列海军快艇在克里特岛附近拦截了"全球团结号"救援船队，58艘船只中有7艘被扣押。该船队原计划突破封锁向加沙运送救援物资，此举引发国际社会广泛关注。
+伦敦警方发布执法记录仪视频，显示逮捕一名涉嫌刺伤两名犹太男子的嫌疑人。伦敦市长表示将加强巡逻，此前该市已发生一系列令人震惊的反犹太主义袭击事件。
 
-📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss)
+📎 [CBS News](https://www.cbsnews.com/news/london-stabbing-golders-green-jewish-group-says-amid-wave-antisemitism/)
 
 ## 💰 财经动态
 
-### 🔴 **布伦特原油突破120美元，美伊冲突加剧供应担忧**
+### 🔴 **阿联酋宣布退出OPEC，石油卡特尔面临历史性分裂**
 
-受美伊冲突可能长期化的担忧影响，国际油价周四延续涨势。核谈判陷入僵局，美国对伊朗出口的封锁持续，能源市场面临严重供应压力。
+阿联酋在加入欧佩克近60年后宣布退出，这一决定被市场视为该石油卡特尔可能瓦解的信号。布伦特原油价格同日突破每桶120美元，多重因素叠加推动能源市场剧烈震荡。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html)
+📎 [BBC Business](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
 
-### 🔴 **三星一季度利润飙升逾八倍创新高，AI芯片需求井喷**
+### 🔴 **Alphabet上调2026年资本开支至1900亿美元，AI军备竞赛白热化**
 
-三星电子公布一季度运营利润同比增长逾八倍，创下历史新高并超出市场预期。AI需求驱动的内存芯片供不应求成为主要推动力，进一步印证了全球AI产业的火热发展。
+谷歌母公司Alphabet发布第一季度财报，云业务收入强劲增长，同时将全年资本支出上调至最高1900亿美元，并预计2027年"显著增加"。Meta同日股价下跌，因高达数十亿美元的AI投资计划令投资者担忧。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html)
+📎 [CNBC](https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html)
 
-### 🔴 **Anthropic考虑新一轮融资，估值或超9000亿美元**
+### 🔴 **大众汽车一季度利润下滑14%，受关税压力和中国竞争冲击**
 
-据彭博社报道，AI公司Anthropic正在酝酿新一轮融资，估值可能超过9000亿美元。这一估值将使其成为全球估值最高的AI初创公司之一，反映出资本对AI赛道的高度热情。
+大众汽车公布第一季度财报，利润同比下滑14%。欧洲顶级汽车制造商正面临多重行业逆风，包括美国关税压力和来自中国竞争对手的激烈竞争。
 
-📎 [Investing.com](https://www.investing.com/news/stock-market-news/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-bloomberg-news-reports-4647415)
+📎 [CNBC](https://www.cnbc.com/2026/04/30/volkswagen-q1-earnings-autos.html)
 
-### 🔴 **英国面临350亿英镑经济冲击及衰退风险：伊朗战争波及英国经济**
+### 🔴 **英伟达B300服务器在华售价高达100万美元，受美国出口限制影响**
 
-英国国家经济社会研究院（Niesr）警告称，即使在最佳情景下，伊朗冲突也将使英国2026年和2027年经济增速放缓。英国面临高达350亿英镑的经济损失，衰退风险上升。
+据报道，受美国对华芯片出口限制影响，英伟达B300服务器在中国市场的售价高达100万美元。美国出口管制持续推高中国企业获取高端AI芯片的成本。
 
-📎 [The Guardian](https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns)
+📎 [Investing.com](https://www.investing.com/news/stock-market-news/exclusiveprices-of-nvidias-b300-server-at-1-million-in-china-on-us-curbs-sources-say-4647721)
+
+### 🔴 **航空燃油竞购战爆发，航空业面临"全球压力测试"**
+
+欧洲各大航空公司爆发航空燃油竞购战，分析师称之为航空业的"全球压力测试"。燃油短缺和价格飙升已导致航班取消，瑞安航空、易捷航空、英国航空和汉莎航空均受影响。
+
+📎 [CNBC](https://www.cnbc.com/2026/04/29/flight-cancellations-ryanair-easyjet-british-airways-jet-fuel-lufthansa.html)
 
 ---
 
