@@ -1,6 +1,6 @@
 ---
-title: "国际财经速报 | 2026年4月30日 06:00 CST"
-date: 2026-04-30T06:00:00+08:00
+title: "国际财经速报 | 2026年04月30日 09:01 CST"
+date: 2026-04-30T09:01:00+08:00
 draft: false
 tags: ["新闻", "财经", "国际"]
 ---
@@ -9,73 +9,67 @@ tags: ["新闻", "财经", "国际"]
 
 ## 🌍 国际要闻
 
-### 🔴 **阿联酋宣布退出欧佩克，油市格局面临巨震**
+### 🔴 **特朗普敦促伊朗"放弃抵抗"，油价飙升突破120美元**
 
-阿联酋宣布将于5月1日退出欧佩克（OPEC），结束近60年的成员国身份。中国专家警告这可能带来"更大的麻烦"，分析认为此举反映出海湾合作委员会内部裂痕加深。多家媒体将这一事件视为欧佩克可能走向解体的"关键时刻"。
+伊朗局势持续升级。特朗普在社交媒体上呼吁德黑兰"投降"，与此同时霍尔木兹海峡的对峙态势推动全球油价突破每桶120美元。人道主义组织呼吁建立人道主义走廊，因为战争已严重影响粮食、燃料和药品的运输。
 
-📎 [BBC News](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss) | [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss) | [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351896/uaes-exit-opec-could-bring-even-bigger-trouble-chinese-expert?utm_source=rss_feed)
+📎 [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss)
 
-### 🔴 **国际油价触及每桶120美元，中东局势持续紧张**
+### 🔴 **特朗普与普京通电话讨论伊朗和乌克兰局势**
 
-受阿联酋退出欧佩克以及伊朗战争延续的双重冲击，布伦特原油价格一度飙升至每桶120美元，为2022年以来首次。美国国内汽油价格也涨至近四年最高水平，引发通胀担忧。
+特朗普与普京就伊朗冲突与乌克兰问题进行通话。与此同时，美国能源出口上升。这场脆弱的停火协议持续冲击全球市场，多国正密切关注事态发展。
 
-📎 [BBC News](https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss) | [MarketWatch](https://www.marketwatch.com/story/the-u-s-produces-the-most-oil-in-the-world-so-why-are-gasoline-prices-so-high-4cb0d82c?mod=mw_rss_topstories) | [The Guardian](https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates)
+📎 [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351924/trump-putin-talk-iran-and-ukraine-us-energy-exports-heres-what-happened-overnight?utm_source=rss_feed)
 
-### 🔴 **五角大楼首次披露伊朗战争成本：已耗资250亿美元**
+### 🔴 **特朗普威胁削减驻德美军，德美关系再陷紧张**
 
-美国国防部长皮特·赫格塞斯在国会就伊朗战争预算作证，称过去两个月战争已耗资250亿美元。赫格塞斯与美军参谋长联席会议主席丹·凯恩上将一同出席听证会，但未给出战争结束的时间表。与此同时，"福特"号航母即将在未来数天内撤离中东。
+美国总统特朗普表示正考虑削减驻德美军规模，此前德国总理默茨批评美国在伊朗问题上的立场"有辱人格"。此举可能对北约同盟关系产生深远影响。
 
-📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date) | [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss) | [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-warning-strait-of-hormuz-bab-el-mandeb-threat-oil-prices/)
+📎 [SCMP](https://www.scmp.com/news/world/europe/article/3351923/trump-may-cut-us-troops-germany-after-merzs-humiliating-iran-comment?utm_source=rss_feed)
 
-### 🔴 **特朗普称普京愿协助解决伊朗核僵局**
+### 🔴 **金砖国家推动本币支付体系，寻求削弱西方金融影响力**
 
-美国总统特朗普表示，俄罗斯总统普京向他提出愿意"参与"解决伊朗核浓缩问题的僵局。这一表态引发外界对俄方可能在美伊之间扮演调解角色的猜测。
+金砖国家正在评估建立数字支付框架的可能性，通过连接各国货币来减轻西方制裁、关税和美元波动带来的影响。此举被视为去美元化进程中的重要一步。
 
-📎 [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss)
+📎 [SCMP](https://www.scmp.com/week-asia/economics/article/3351860/brics-push-intra-currency-payments-immunity-against-western-clout?utm_source=rss_feed)
 
-### 🔴 **韩国前总统尹锡悦被判7年有期徒刑**
+### 🔴 **美国起诉锡那罗亚州州长等10名墨西哥官员涉毒**
 
-韩国上诉法院判处前总统尹锡悦7年监禁，罪名包括抗拒逮捕和绕过内阁会议。尹锡悦此前曾短暂实施戒严，这一判决被视为韩国政坛的重大事件。
+美国司法部起诉墨西哥锡那罗亚州州长鲁本·罗查·莫亚及其他9名现任和前任墨西哥官员，指控其涉及毒品贩运、武器犯罪和绑架等罪名。这是美国对墨西哥高级官员规模最大的起诉之一。
 
-📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon)
+📎 [The Guardian](https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences)
 
-### 🔴 **伦敦两名犹太男子遭持刀袭击，警方定性为恐怖事件**
+### 🔴 **以色列在公海拦截加沙援助船队**
 
-伦敦北部发生持刀袭击事件，两名犹太男子被刺伤。警方已宣布为恐怖袭击事件，伦敦市长表示将加强巡逻。近期英国反犹袭击事件频发，引发社会广泛担忧。
+以色列海军快艇在克里特岛附近拦截了"全球团结号"救援船队，58艘船只中有7艘被扣押。该船队原计划突破封锁向加沙运送救援物资，此举引发国际社会广泛关注。
 
-📎 [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss) | [CBS News](https://www.cbsnews.com/news/london-stabbing-golders-green-jewish-group-says-amid-wave-antisemitism/)
+📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss)
 
 ## 💰 财经动态
 
-### 🔴 **科技巨头财报同日发布：Alphabet全年资本支出高达1900亿美元**
+### 🔴 **布伦特原油突破120美元，美伊冲突加剧供应担忧**
 
-谷歌母公司Alphabet发布Q1财报，云业务收入大幅增长，同时将2026年全年资本支出上调至最高1900亿美元，并预期2027年将"显著增加"。亚马逊AWS收入同比增长28%超预期。Meta、微软同日发布财报，科技巨头AI投资竞赛白热化。
+受美伊冲突可能长期化的担忧影响，国际油价周四延续涨势。核谈判陷入僵局，美国对伊朗出口的封锁持续，能源市场面临严重供应压力。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html) | [BBC Business](https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss) | [CNBC](https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html)
+📎 [CNBC](https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html)
 
-### 🔴 **鲍威尔表态任期结束后仍留任美联储，回应政治攻击**
+### 🔴 **三星一季度利润飙升逾八倍创新高，AI芯片需求井喷**
 
-美联储主席杰罗姆·鲍威尔在完成最后一次作为主席的议息会议后表示，他计划在任期于下月结束后"无限期"留任美联储理事会，原因是特朗普团队对其发起了攻击。与此同时，美联储主席提名人凯文·沃什在参议院听证会上表示，美联储在国际金融领域并非完全独立。
+三星电子公布一季度运营利润同比增长逾八倍，创下历史新高并超出市场预期。AI需求驱动的内存芯片供不应求成为主要推动力，进一步印证了全球AI产业的火热发展。
 
-📎 [SCMP](https://www.scmp.com/news/world/united-states-canada/article/3351915/powell-says-hell-stay-fed-after-chair-term-ends-citing-attacks-trump-team?utm_source=rss_feed) | [BBC Business](https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss) | [CNBC](https://www.cnbc.com/2026/04/29/fed-powell-warsh-interest-rates.html)
+📎 [CNBC](https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html)
 
-### 🔴 **福特上调2026年业绩指引，获13亿美元关税退税提振**
+### 🔴 **Anthropic考虑新一轮融资，估值或超9000亿美元**
 
-福特汽车发布Q1财报，利润大幅增长，得益于13亿美元的关税退税抵消了成本上升。公司上调全年业绩指引，展现出在电动车需求放缓背景下的经营韧性。
+据彭博社报道，AI公司Anthropic正在酝酿新一轮融资，估值可能超过9000亿美元。这一估值将使其成为全球估值最高的AI初创公司之一，反映出资本对AI赛道的高度热情。
 
-📎 [CNBC](https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html) | [MarketWatch](https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories)
+📎 [Investing.com](https://www.investing.com/news/stock-market-news/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-bloomberg-news-reports-4647415)
 
-### 🔴 **英国陷入财务困境企业数量激增三分之一**
+### 🔴 **英国面临350亿英镑经济冲击及衰退风险：伊朗战争波及英国经济**
 
-报告显示，受税收上升、人力成本增加和消费者信心不稳影响，英国"严重财务困境"企业数量增至62,193家，较此前激增三分之一。这反映出英国经济在高成本环境下面临的严峻挑战。
+英国国家经济社会研究院（Niesr）警告称，即使在最佳情景下，伊朗冲突也将使英国2026年和2027年经济增速放缓。英国面临高达350亿英镑的经济损失，衰退风险上升。
 
-📎 [The Guardian](https://www.theguardian.com/business/2026/apr/29/uk-firms-in-critical-financial-stress-jump-by-a-third-costs-rise-report-says)
-
-### 🔴 **比特币创年内最佳月度表现，但散户兴趣转移**
-
-比特币本月创下年内最佳表现，但Robinhood等散户交易平台的比特币交易量大幅下滑。市场分析指出，散户资金正流向其他资产类别，加密货币市场出现分化态势。
-
-📎 [MarketWatch](https://www.marketwatch.com/story/bitcoin-is-having-its-best-month-in-a-year-but-the-retail-crowd-is-looking-elsewhere-d01aa6c1?mod=mw_rss_topstories)
+📎 [The Guardian](https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns)
 
 ---
 
