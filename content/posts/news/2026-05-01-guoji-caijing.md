@@ -1,6 +1,6 @@
 ---
-title: "国际财经速报 | 2026年05月01日 06:00 CST"
-date: 2026-05-01T06:00:00+08:00
+title: "国际财经速报 | 2026年05月01日 09:00 CST"
+date: 2026-05-01T09:00:00+08:00
 draft: false
 tags: ["新闻", "财经", "国际"]
 ---
@@ -9,67 +9,67 @@ tags: ["新闻", "财经", "国际"]
 
 ## 🌍 国际要闻
 
-### 🔴 **五角大楼：对伊战争已耗资250亿美元；赫格塞斯赴国会作证**
+### 🔴 **伊朗战争持续升级：战争成本达250亿美元，霍尔木兹海峡僵局难解**
 
-美国国防部长赫格塞斯与美军最高将领连续第二日出席参议院公开听证会，这是自伊朗战争爆发以来首次面向公众的国会质询。五角大楼估计战争至今已耗资250亿美元。与此同时，美国国内油价攀升至2022年以来最高水平。
+五角大楼估计，美国对伊朗的军事行动在过去两个月内已耗资250亿美元。国防部长赫格塞斯在国会作证时未给出战争结束的时间表。与此同时，伊朗最高领袖哈梅内伊之子莫杰塔巴表示，霍尔木兹海峡的"管理方式将发生改变"，暗示可能征收通行费。联合国呼吁制定人道主义计划，帮助被困在波斯湾的约2万名民用海员撤离。
 
-📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss) · [NPR](https://www.npr.org/2026/04/30/g-s1-119496/up-first-newsletter-pentagon-iran-war-jerome-powell-scotus-voting-rights-wildfire-fuel-costs)
+📎 [NPR](https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date)
 
-### 🔴 **伊朗最高领袖放狠话：美国在波斯湾的唯一归宿是"海底"**
+### 🔴 **美国汽油价格突破4.30美元/加仑，特朗普称战后将回落**
 
-伊朗新任最高领袖哈梅内伊（穆杰塔巴·哈梅内伊）周四表示，美国在对伊朗的战争中已被击败，其在波斯湾的唯一位置就是"海底深处"。此番言论令霍尔木兹海峡对峙局势进一步升级。
+美国汽油价格一周内上涨近30美分，达到4.30美元/加仑，为2022年以来最高水平。霍尔木兹海峡的封锁与伊朗外交僵局是主要推手。特朗普表示，价格将在对伊战争结束后回落，但未给出具体时间表。分析师警告，若封锁持续，油价可能进一步攀升。
 
-📎 [France24](https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters)
+📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war)
 
-### 🔴 **英国将恐怖威胁等级上调至"严重"，伦敦持刀袭击后追加3400万美元打击反犹主义**
+### 🔴 **中国宣布对几乎所有非洲国家实施零关税**
 
-英国政府将国家恐怖威胁等级从"较高"上调至"严重"，理由是伊斯兰极端主义和极右翼恐怖主义威胁日益上升。此前伦敦Golders Green地区发生持刀袭击事件，政府随即宣布投入3400万美元应对反犹主义紧急情况。
+中国宣布对除一个非洲国家外的所有国家实施零关税政策。分析人士指出，这一举措将增强中国在非洲的软实力，但可能导致各国间收益不均。这是中国在发展中国家扩大经贸影响力的最新动作。
 
-📎 [CBS News](https://www.cbsnews.com/news/uk-raises-terrorism-threat-level-severe-after-golders-green-attack/)
+📎 [BBC](https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss)
 
-### 🔴 **特朗普威胁削减驻德美军，与德国总理梅尔茨隔空交火**
+### 🔴 **特朗普签署国土安全部拨款法案，结束76天部分政府停摆**
 
-美国总统特朗普表示正在研究削减驻德美军人数，这是对德国总理梅尔茨批评美国伊朗政策的回应。德国方面回应称已"做好准备"应对可能的驻军削减，专家警告撤军将是"愚蠢之举"。
+特朗普签署法案，恢复对国土安全部等关键政府机构的拨款，结束了长达76天的部分政府停摆。但共和党人对移民和海关执法局（ICE）及边境巡逻队未获得足够资金表示不满。
 
-📎 [BBC](https://www.bbc.com/news/articles/clyplg23l30o) · [France24](https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction)
+📎 [DW](https://www.dw.com/en/us-trump-signs-dhs-funding-bill-ending-partial-shutdown/a-77005913?maca=en-rss-en-all-1573-rdf)
 
-### 🔴 **缅甸军政府将昂山素季从监狱转移至软禁**
+### 🔴 **特朗普考虑削减驻德美军，因伊朗问题与德国关系紧张**
 
-缅甸军政府领导人敏昂莱下令将原国务资政昂山素季从监狱转移至家中软禁。昂山素季此前被判处多年监禁，此次转移被视为军政府的姿态性举动。
+特朗普表示，由于与德国总理默茨就美国-以色列对伊朗军事行动产生分歧，他可能很快削减在德国的美军驻军规模。此举可能进一步动摇北约联盟的稳定性，并引发欧洲安全格局的重大调整。
 
-📎 [France24](https://www.france24.com/en/asia-pacific/20260430-myanmar-moves-aung-san-suu-kyi-to-house-arrest)
+📎 [NPR](https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud)
 
-### 🔴 **巴西国会推翻总统否决，大幅缩减博索纳罗刑期**
+### 🔴 **英国宣布反犹主义进入紧急状态，犹太社区连遭袭击**
 
-巴西国会与参议院推翻了总统卢拉对一项法案的否决，该法案大幅减轻了卢拉的政治宿敌、前总统博索纳罗的刑期。法案现等待最高法院最终确认。
+英国政府在一系列针对犹太社区的纵火和持刀袭击事件后，承诺加强对犹太社区的安全保障。此前发生了两起纵火袭击和一起双重持刀伤人事件，社区成员对政府的保护力度表示怀疑。
 
-📎 [The Guardian](https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro) · [SCMP](https://www.scmp.com/news/world/americas/article/3352086/brazil-mps-slash-bolsonaro-prison-term-blow-lula)
+📎 [NPR](https://www.npr.org/2026/04/30/nx-s1-5805890/uk-stabbing-jewish-community-attacks-antisemitism)
 
 ## 💰 财经动态
 
-### 🔴 **欧元区通胀飙升至3%，伊朗战争推高能源价格**
+### 🔴 **油价突破126美元/桶，特朗普警告霍尔木兹封锁可能持续数月**
 
-受伊朗战争推动能源价格持续上涨影响，欧元区4月通胀率从2月的1.9%飙升至3%。欧洲央行维持利率不变，经济增速下滑与物价加速上涨成为欧洲面临的双重困境。
+布伦特原油价格突破126美元/桶，创2022年以来新高。Axios报道称，美国中央司令部已准备新一轮对伊朗"短促而强力"的打击方案。特朗普表示愿意维持海军封锁，而伊朗方面则继续保持霍尔木兹海峡近乎关闭的状态，市场恐慌情绪蔓延。
 
-📎 [The Guardian](https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices)
+📎 [The Guardian](https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz)
 
-### 🔴 **英国央行警告"通胀上升不可避免"，维持利率于3.75%**
+### 🔴 **苹果公布史上最佳三月季度财报，盘后股价上涨4%**
 
-英国央行决定维持基准利率在3.75%不变，行长表示中东局势的不可预测性使得维持利率是合理选择。央行警告"特朗普关税效应"（Trumpflation）将对英国经济构成额外压力。
+苹果公司公布了公司历史上最好的三月季度业绩，营收和利润均超出市场预期。同时市场也在关注即将到来的CEO更迭和AI战略更新。财报发布后，苹果股价在盘后交易中上涨4%。
 
-📎 [The Guardian](https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold)
+📎 [CNBC](https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html)
 
-### 🔴 **伊朗战争推动油价升至四年新高**
+### 🔴 **Alphabet市值单日暴增4210亿美元，逼近英伟达**
 
-受伊朗战争及霍尔木兹海峡对峙影响，国际原油价格触及四年最高点。据报道，特朗普将听取新一轮对伊打击方案，试图打破海峡封锁僵局。美国国内汽油价格已升至2022年以来最高水平。
+谷歌母公司Alphabet股价大涨，单日市值增加创纪录的4210亿美元，正在逼近芯片巨头英伟达。云计算业务的强劲增长和AI领域的持续势头是推动股价飙升的主要动力。
 
-📎 [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-hegseth-costs-strait-of-hormuz/)
+📎 [MarketWatch](https://www.marketwatch.com/story/alphabet-hits-a-milestone-as-it-closes-in-on-nvidia-00622b31?mod=mw_rss_topstories)
 
-### 🔴 **美股创2020年以来最佳单月表现，华尔街无视伊朗石油冲击**
+### 🔴 **日本央行干预汇市，日元从160急升至155**
 
-标普500指数和纳斯达克指数录得六年来最佳月度表现，令此前聚焦油价风险的看空者大感意外。分析师指出，市场正在重新评估伊朗冲突对整体经济的实际影响。
+日本央行出手干预外汇市场，一度将日元从160日元兑1美元的水平拉升到155。这是日本当局在日元持续贬值压力下采取的又一举措，显示出日本政府对汇率过度波动的警惕态度。
 
-📎 [MarketWatch](https://www.marketwatch.com/story/stocks-clock-their-best-month-since-2020-as-wall-street-shakes-off-iran-oil-shock-848a7214)
+📎 [Nikkei Asia](https://asia.nikkei.com/business/markets/currencies/japan-launches-fx-intervention-briefly-pushing-yen-to-155-from-160)
 
 ---
 
