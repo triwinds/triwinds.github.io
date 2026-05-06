@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="triwinds avatar">
+  <defs>
+    <linearGradient id="bg" x1="74" y1="54" x2="450" y2="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="0.44" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="34%" cy="24%" r="70%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="0.42" stop-color="#93c5fd" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0f172a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.32"/>
+    </filter>
+    <filter id="inner" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="0" flood-color="#ffffff" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="120" fill="#020617"/>
+  <circle cx="256" cy="256" r="238" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="238" fill="url(#glow)"/>
+  <circle cx="132" cy="110" r="72" fill="#ffffff" opacity="0.12"/>
+  <circle cx="398" cy="397" r="94" fill="#22d3ee" opacity="0.12"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#softShadow)">
+    <path d="M98 174 C151 128 230 124 293 157 C332 177 365 169 394 137" stroke="#e0f2fe" stroke-width="24" opacity="0.94"/>
+    <path d="M88 256 C149 214 224 214 283 245 C328 269 371 260 421 219" stroke="#bae6fd" stroke-width="22" opacity="0.78"/>
+    <path d="M120 335 C178 299 241 302 293 330 C332 351 368 348 407 318" stroke="#ddd6fe" stroke-width="20" opacity="0.78"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="139" y="204" width="234" height="54" rx="27" fill="#ffffff"/>
+    <rect x="229" y="204" width="54" height="176" rx="27" fill="#ffffff"/>
+    <circle cx="405" cy="137" r="10" fill="#ffffff" opacity="0.9"/>
+    <circle cx="423" cy="218" r="9" fill="#ffffff" opacity="0.75"/>
+  </g>
+
+  <circle cx="256" cy="256" r="238" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="4" filter="url(#inner)"/>
+</svg>
